@@ -1,0 +1,11 @@
+numpy
+torch
+torchvision
+einops
+matplotlib
+Pillow
+scipy
+opencv-python-headless
+imageio
+kornia
+tqdm
