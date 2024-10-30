@@ -45,6 +45,9 @@ The following configuration settings can be adjusted in `Demo.py`:
 ## Additional Resources
 - [![QuickTurbSim](https://img.shields.io/badge/QuickTurbSim-GitHub-blue)](https://github.com/Riponcs/QuickTurbSim): A repository for simulating atmospheric turbulence effects on images using 3D simplex noise and Gaussian blur.
 
+## Train the Model:
+- To train the Restormer model, you can use this code:[Restormer Implementation](https://github.com/leftthomas/Restormer), and for Dataset Generation use the [Turbulence Simulator Code](https://github.com/Riponcs/QuickTurbSim) on [MIT Place Dataset](https://www.kaggle.com/datasets/nickj26/places2-mit-dataset). I'll update the training code and dataset to make it simple by the end of November.
+
 ## Citation
 If you find this work useful, please cite our CVPR 2024 paper:
 ```bibtex
