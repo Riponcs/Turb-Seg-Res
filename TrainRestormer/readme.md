@@ -5,8 +5,6 @@ This code is designed for training the Restoration Transformer from scratch usin
 A PyTorch implementation of Restormer based on CVPR 2022 paper by [Hao Ren](https://github.com/leftthomas/Restormer).
 [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://arxiv.org/abs/2111.09881).
 
-![Network Architecture](result/structure.png)
-
 ## Requirements
 
 - [Anaconda](https://www.anaconda.com/download/)
